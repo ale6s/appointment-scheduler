@@ -1,2 +1,2 @@
 # appointment-scheduler
-Create appointment and link clinets to each appointment.
+Create appointment and link clients to each appointment.
